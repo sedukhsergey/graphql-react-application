@@ -10,7 +10,7 @@
     "apollo-link-http": "^1.5.15",
     "emotion": "^9.2.12",
     "graphql": "^14.4.2",
-    "graphql-playground-react": "^1.7.20",
+    "graphql-playground-react": "^1.7.28",
     "graphql-tag": "^2.10.1",
     "polished": "^3.4.1",
     "react": "^16.9.0-alpha.0",
